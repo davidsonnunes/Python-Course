@@ -36,5 +36,5 @@ Para esse projeto, optei por utilizar o aplicativo web Jupyter Notebook com Cola
 
 # Dataset
 Utilizamos o dataset [Kaggle](https://www.kaggle.com/) disponibilizado em:</br>
-[Dataset](#) → Para fins didáticos, foram utilizados 6 arquivos os mesmos se encontram disponível na estrutura do projeto.
+[Dataset](https://github.com/davidsonnunes/Python-Course/tree/main/dataset) → Para fins didáticos, foram utilizados 6 arquivos os mesmos se encontram disponível na estrutura do projeto.
 
