@@ -23,9 +23,9 @@ Linguagem de programação:</br>
 
 Bibliotecas utilizadas:
 
-* [pandas](https://pandas.pydata.org/docs/index.html) - Utilizada para realizar manipulação e análise de dados em dataframes e series;
-* [numpy](https://pypi.org/project/numpy/) - Utilizada para trabalhar com objetos de matriz multi-dimensional;
-* [matplotlib](https://pypi.org/project/matplotlib/) - Utilizada para criar visualizações estáticas, animadas e interativas;
+* [Pandas](https://pandas.pydata.org/docs/index.html) - Utilizada para realizar manipulação e análise de dados em dataframes e series;
+* [Numpy](https://pypi.org/project/numpy/) - Utilizada para trabalhar com objetos de matriz multi-dimensional;
+* [Matplotlib](https://pypi.org/project/matplotlib/) - Utilizada para criar visualizações estáticas, animadas e interativas;
 
 
 IDE:
